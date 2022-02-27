@@ -1,0 +1,15 @@
+C:\Users\sereg\OneDrive\Desktop\Gb_C#_seminar_1\task3\bin\Debug\net6.0\task3.exe
+C:\Users\sereg\OneDrive\Desktop\Gb_C#_seminar_1\task3\bin\Debug\net6.0\task3.deps.json
+C:\Users\sereg\OneDrive\Desktop\Gb_C#_seminar_1\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+C:\Users\sereg\OneDrive\Desktop\Gb_C#_seminar_1\task3\bin\Debug\net6.0\task3.dll
+C:\Users\sereg\OneDrive\Desktop\Gb_C#_seminar_1\task3\bin\Debug\net6.0\task3.pdb
+C:\Users\sereg\OneDrive\Desktop\Gb_C#_seminar_1\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+C:\Users\sereg\OneDrive\Desktop\Gb_C#_seminar_1\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sereg\OneDrive\Desktop\Gb_C#_seminar_1\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+C:\Users\sereg\OneDrive\Desktop\Gb_C#_seminar_1\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+C:\Users\sereg\OneDrive\Desktop\Gb_C#_seminar_1\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+C:\Users\sereg\OneDrive\Desktop\Gb_C#_seminar_1\task3\obj\Debug\net6.0\task3.dll
+C:\Users\sereg\OneDrive\Desktop\Gb_C#_seminar_1\task3\obj\Debug\net6.0\refint\task3.dll
+C:\Users\sereg\OneDrive\Desktop\Gb_C#_seminar_1\task3\obj\Debug\net6.0\task3.pdb
+C:\Users\sereg\OneDrive\Desktop\Gb_C#_seminar_1\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+C:\Users\sereg\OneDrive\Desktop\Gb_C#_seminar_1\task3\obj\Debug\net6.0\ref\task3.dll
